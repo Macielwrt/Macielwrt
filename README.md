@@ -14,5 +14,3 @@ My name is Maciel Ferreira Lima and I am studying front-end and back-end, see my
 * Language C (Intermediary)
 * Language .BAT (beginner)
 * Computer concert (Intermediary)
-
- ![Estatísticas do GitHub de Macielwrt] (https://github-readme-stats.vercel.app/api ? Username = Macielwrt & show_icons = true & theme = radical )
