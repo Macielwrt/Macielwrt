@@ -8,11 +8,11 @@ My name is Maciel Ferreira Lima and I am studying front-end and back-end, see my
 # Welcome to my profile 🤓👨‍💻
 
 Areas of interest and performance:
--Mysql Server (beginner)
--PHP, HTML, CSS, React (beginner)
--Language C (Intermediary)
--Language .BAT(beginner)
--Computer concert (Intermediary)
+*Mysql Server (beginner)
+*PHP, HTML, CSS, React (beginner)
+*Language C (Intermediary)
+*Language .BAT(beginner)
+*Computer concert (Intermediary)
 
 [! [Estatísticas do GitHub do Anurag] (https://github-readme-stats.vercel.app/api ? Username = Macielwrt )] (https://github.com/Macielwrt/github-readme-stats)
 
