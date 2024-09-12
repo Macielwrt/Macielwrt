@@ -9,7 +9,11 @@ My name is Maciel Ferreira Lima and I am studying front-end and back-end, see my
 #### Areas of interest and performance:
 
 * Mysql Server (beginner)
-* PHP, HTML, CSS, React (beginner)
+* PHP, HTML, CSS, React and Node Js (beginner)
 * Language C (Intermediary)
 * Language .BAT (beginner)
 * Computer concert (Intermediary)
+* Python (beginner)
+* voip technology (beginner)
+* tensoflow and graphical analysis (beginner)
+* studying about AI is a great way to pass the time (beginner)
